@@ -68,8 +68,8 @@
 
     <div class="container">
         <div class="header">
-            <h1>Happy Wedding!</h1>
-            <p>Untuk pasangan tercinta, [Nama Pasangan 1] & [Nama Pasangan 2]</p>
+            <h1>Happy Wedding day!</h1>
+            <p>Untuk pasangan tercinta, [Om Iwann] & [Ateu Harr]</p>
         </div>
 
         <div class="photo-frame">
@@ -83,7 +83,7 @@
         <div class="message">
             <p>"Baarakallaahu laka wa baaraka 'alaika wa jama-'a bainakumaa fii khair... 
 
-  Pada mulanya Allah menciptakan satu jiwa, kemudian dia membelahnya menjadi dua. Sehingga, Allah yan==============================================================================================================================================================================================================================I=W=A=N===============================================================================================================&ATEU HAR========!!! Ingat, bahwa pernikahan itu bukan hanya soal cinta. Ada yang lebih penting dari sekadar cinta. It’s all about faith, teamwork, and commitment."</p>
+  Pada mulanya Allah menciptakan satu jiwa, kemudian dia membelahnya menjadi dua. Sehingga, Allah yang maha pengasih lagi maha penyayang bisa menyatukan lagi dalam pernikahan.. Selamat menjalani ibadah terlama seumur hidup Om Iwan & Ateu HAR!!! Ingat, bahwa pernikahan itu bukan hanya soal cinta. Ada yang lebih penting dari sekadar cinta. It’s all about faith, teamwork, and commitment."</p>
         </div>
 
         <div class="signature">
